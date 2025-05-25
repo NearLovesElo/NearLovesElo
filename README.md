@@ -21,4 +21,4 @@ A game about guarding a haunted carnival at night. Players must shut down all th
 ---
 
 ## 📫 Contact Me
-my email
+marcuskylej@gmail.com

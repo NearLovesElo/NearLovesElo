@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Marcus Kyle Jamison!
 
-<!--
-**NearLovesElo/NearLovesElo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio. I'm a 4th year (next semester) BSEMC major in Game Development with beginner game developer skills and constantly improving my skills in Unity and C# language. Here are some of my projects:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 My Unity Projects
+
+### 🏚️ Eldershard
+A game about surviving a haunted mansion where statues move when unobserved. Players must search for the Eldershard to save a missing father—before they, too, are turned to stone.
+
+### 🎡 Midnight Carnival
+A game about guarding a haunted carnival at night. Players must shut down all the rides before dawn while battling creeping madness and unseen horrors.
+
+---
+
+## 🧰 Skills & Tools
+- Unity (2D & 3D)
+- C# scripting
+
+---
+
+## 📫 Contact Me
+my email

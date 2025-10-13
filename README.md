@@ -19,6 +19,7 @@ Responsibilities included creating game databases, defining server logic, and ut
 ---
 
 🎮 Projects
+
 GladiatorDex v1 (Web-Based Game – Coming Soon)
 An online multiplayer Web3 game developed during my internship. Players can buy characters, swords, and shields as NFTs, then use them in battles.
 The game’s outcome depends on each player's stats and battle strength, combining blockchain technology with traditional gameplay logic.

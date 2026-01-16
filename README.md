@@ -12,7 +12,7 @@ I mainly work with **Unity**, **C#**, and **SpacetimeDB**, constantly learning b
 
 **Backend Game Developer Intern**  
 DvCode Technologies Inc.  
-July – September 2025  
+July 1 – September 12 2025  
 Worked on backend systems for multiplayer and data-driven gameplay.  
 Responsibilities included creating game databases, defining server logic, and utilizing SpacetimeDB to manage game state and player sessions efficiently.
 
